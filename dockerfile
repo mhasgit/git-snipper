@@ -9,11 +9,4 @@ CMD python app.py
 # Path: requirements.txt
 
 
-#...
-
-
-#kjndfkjdsjakl
-
-
-#fgdsfgsd
 
