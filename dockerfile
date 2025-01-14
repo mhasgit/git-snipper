@@ -10,9 +10,3 @@ CMD python app.py
 
 
 #...
-
-
-#kjndfkjdsjakl
-
-
-#fgdsfgsd
